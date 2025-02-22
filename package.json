@@ -4,7 +4,7 @@
   "description": "Demo project for GitHub Actions",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "mocha test.js"
   },
   "dependencies": {},
   "devDependencies": {},
